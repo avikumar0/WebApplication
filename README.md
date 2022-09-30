@@ -1,3 +1,4 @@
+<h1>Attendance Management Web Application</h1>
 
 * Create the database using following query in mysql : `CREATE DATABASE databasename;`
 * Create tables using the sql script file in `databse/cms.sql`;
